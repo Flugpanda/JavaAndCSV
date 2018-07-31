@@ -19,7 +19,7 @@ import org.apache.commons.csv.CSVRecord;
  * @author Bastian Bräunel
  *
  */
-public class ApacheCSVReader {
+public class ApacheCSVExample {
 
 	/**
 	 * Read a csv file line by line and retrieve informations by the number of the
